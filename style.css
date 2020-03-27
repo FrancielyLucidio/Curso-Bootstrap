@@ -1,0 +1,32 @@
+footer{
+	background-color: #48D1CC;
+}
+
+.navbar {
+	background-color: #48D1CC;
+	font-family: Lucida Bright;
+}
+
+.elemento_1{
+	background-color: #C0C0C0;
+	font-family: Lucida Bright;
+}
+
+.elemento_2{
+	background-color: #D3D3D3;
+	font-family: Lucida Bright;
+}
+
+.elemento_3{
+	background-color: #DCDCDC;
+	font-family: Lucida Bright;
+}
+
+.margin{
+	padding: 40px;
+	font-family: Lucida Bright;
+}
+
+a.nav-link{
+	color: #000000;
+}
